@@ -1,2 +1,2 @@
 # SQLite3-GUIDE
-Tutorial for beginners
+SQLite3.ipynb: Tutorial for beginners
